@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>tu1.jpg</string>
+		<key>userId</key>
+		<string>0</string>
+		<key>name</key>
+		<string>cell高度自动计算,采用第三方库 UITableView+FDTemplateLayoutCell</string>
+		<key>personalizedSignature</key>
+		<string>具体细节参照博客  http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/</string>
+		<key>content</key>
+		<string>结合自己封装的多图片view，可动态的适应cell高度，具体看代码，交流请Q 916235259,结合自己封装的多图片view，可动态的适应cell高度，具体看代码，交流请Q 916235259,结合自己封装的多图片view，可动态的适应cell高度，具体看代码，交流请Q 916235259</string>
+		<key>images</key>
+		<array>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+		</array>
+		<key>time</key>
+		<string>1小时前</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>tu1.jpg</string>
+		<key>userId</key>
+		<string>0</string>
+		<key>name</key>
+		<string>cell高度自动计算,采用第三方库 UITableView+FDTemplateLayoutCell</string>
+		<key>personalizedSignature</key>
+		<string>具体细节参照博客  http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/</string>
+		<key>content</key>
+		<string>结合自己封装的多图片view，可动态的适应cell高度，具体看代码，交流请Q 916235259,结合自己封装的多图片view，可动态的适应cell高度，具体看代码，交流请Q 916235259,结合自己封装的多图片view，可动态的适应cell高度，具体看代码，交流请Q 916235259</string>
+		<key>images</key>
+		<array>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+		</array>
+		<key>time</key>
+		<string>1小时前</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>tu1.jpg</string>
+		<key>userId</key>
+		<string>0</string>
+		<key>name</key>
+		<string>cell高度自动计算,采用第三方库 UITableView+FDTemplateLayoutCell</string>
+		<key>personalizedSignature</key>
+		<string>具体细节参照博客  http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/</string>
+		<key>content</key>
+		<string>结合自己封装的多图片view，可动态的适应cell高度，具体看代码，交流请Q 916235259,结合自己封装的多图片view，可动态的适应cell高度，具体看代码，交流请Q 916235259,结合自己封装的多图片view，可动态的适应cell高度，具体看代码，交流请Q 916235259</string>
+		<key>images</key>
+		<array/>
+		<key>time</key>
+		<string>1小时前</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>tu1.jpg</string>
+		<key>userId</key>
+		<string>0</string>
+		<key>name</key>
+		<string>cell高度自动计算,采用第三方库 UITableView+FDTemplateLayoutCell</string>
+		<key>personalizedSignature</key>
+		<string>具体细节参照博客  http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/</string>
+		<key>content</key>
+		<string>结合自己封装的多图片view，可动态的适应cell高度，具体看代码，交流请Q 916235259,结合自己封装的多图片view，可动态的适应cell高度，具体看代码，交流请Q 916235259,结合自己封装的多图片view，可动态的适应cell高度，具体看代码，交流请Q 916235259</string>
+		<key>images</key>
+		<array>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+		</array>
+		<key>time</key>
+		<string>1小时前</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>tu1.jpg</string>
+		<key>userId</key>
+		<string>0</string>
+		<key>name</key>
+		<string>cell高度自动计算,采用第三方库 UITableView+FDTemplateLayoutCell</string>
+		<key>personalizedSignature</key>
+		<string>具体细节参照博客  http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/</string>
+		<key>content</key>
+		<string>结合自己封装的多图片view，可动态的适应cell高度，具体看代码，交流请Q 916235259,结合自己封装的多图片view，可动态的适应cell高度，具体看代码，交流请Q 916235259,结合自己封装的多图片view，可动态的适应cell高度，具体看代码，交流请Q 916235259</string>
+		<key>images</key>
+		<array>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+		</array>
+		<key>time</key>
+		<string>1小时前</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>tu1.jpg</string>
+		<key>userId</key>
+		<string>0</string>
+		<key>name</key>
+		<string>cell高度自动计算,采用第三方库 UITableView+FDTemplateLayoutCell</string>
+		<key>personalizedSignature</key>
+		<string>具体细节参照博客  http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/</string>
+		<key>content</key>
+		<string>结合自己封装的多图片view，可动态的适应cell高度，具体看代码，交流请Q 916235259,结合自己封装的多图片view，可动态的适应cell高度，具体看代码，交流请Q 916235259,结合自己封装的多图片view，可动态的适应cell高度，具体看代码，交流请Q 916235259</string>
+		<key>images</key>
+		<array>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+		</array>
+		<key>time</key>
+		<string>1小时前</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>tu1.jpg</string>
+		<key>userId</key>
+		<string>0</string>
+		<key>name</key>
+		<string>cell高度自动计算,采用第三方库 UITableView+FDTemplateLayoutCell</string>
+		<key>personalizedSignature</key>
+		<string>具体细节参照博客  http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/</string>
+		<key>content</key>
+		<string>结合自己封装的多图片view，可动态的适应cell高度，具体看代码，交流请Q 916235259,结合自己封装的多图片view，可动态的适应cell高度，具体看代码，交流请Q 916235259,结合自己封装的多图片view，可动态的适应cell高度，具体看代码，交流请Q 916235259</string>
+		<key>images</key>
+		<array>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+		</array>
+		<key>time</key>
+		<string>1小时前</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>tu1.jpg</string>
+		<key>userId</key>
+		<string>0</string>
+		<key>name</key>
+		<string>cell高度自动计算,采用第三方库 UITableView+FDTemplateLayoutCell</string>
+		<key>personalizedSignature</key>
+		<string>具体细节参照博客  http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/</string>
+		<key>content</key>
+		<string>#import &lt;UITableView+FDTemplateLayoutCell.h&gt;
+- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
+    return [tableView fd_heightForCellWithIdentifier:@&quot;identifer&quot; cacheByIndexPath:indexPath configuration:^(id cell) {
+        // 配置 cell 的数据源，和 &quot;cellForRow&quot; 干的事一致，比如：
+        cell.entity = self.feedEntities[indexPath.row];
+    }];
+} 和每个 UITableViewCell ReuseID 一一对应的 template layout cell
+这个 cell 只为了参加高度计算，不会真的显示到屏幕上；它通过 UITableView 的 -dequeueCellForReuseIdentifier: 方法 lazy 创建并保存，所以要求这个 ReuseID 必须已经被注册到了 UITableView 中，也就是说，要么是 Storyboard 中的原型 cell，要么就是使用了 UITableView 的 -registerClass:forCellReuseIdentifier: 或 -registerNib:forCellReuseIdentifier:其中之一的注册方法。
+根据 autolayout 约束自动计算高度
+使用了系统在 iOS6 就提供的 API：-systemLayoutSizeFittingSize:
+根据 index path 的一套高度缓存机制
+计算出的高度会自动进行缓存，所以滑动时每个 cell 真正的高度计算只会发生一次，后面的高度询问都会命中缓存，减少了非常可观的多余计算。
+自动的缓存失效机制
+无须担心你数据源的变化引起的缓存失效，当调用如-reloadData，-deleteRowsAtIndexPaths:withRowAnimation:等任何一个触发 UITableView 刷新机制的方法时，已有的高度缓存将以最小的代价执行失效。如删除一个 indexPath 为 [0:5] 的 cell 时，[0:0] ~ [0:4] 的高度缓存不受影响，而 [0:5] 后面所有的缓存值都向前移动一个位置。自动缓存失效机制对 UITableView 的 9 个公有 API 都进行了分别的处理，以保证没有一次多余的高度计算。
+预缓存机制
+预缓存机制将在 UITableView 没有滑动的空闲时刻执行，计算和缓存那些还没有显示到屏幕中的 cell，整个缓存过程完全没有感知，这使得完整列表的高度计算既没有发生在加载时，又没有发生在滑动时，同时保证了加载速度和滑动流畅性，下文会着重讲下这块的实现原理。</string>
+		<key>images</key>
+		<array/>
+		<key>time</key>
+		<string>1小时前</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>tu1.jpg</string>
+		<key>userId</key>
+		<string>0</string>
+		<key>name</key>
+		<string>cell高度自动计算,采用第三方库 UITableView+FDTemplateLayoutCell</string>
+		<key>personalizedSignature</key>
+		<string>具体细节参照博客  http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/</string>
+		<key>content</key>
+		<string>#import &lt;UITableView+FDTemplateLayoutCell.h&gt;
+- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
+    return [tableView fd_heightForCellWithIdentifier:@&quot;identifer&quot; cacheByIndexPath:indexPath configuration:^(id cell) {
+        // 配置 cell 的数据源，和 &quot;cellForRow&quot; 干的事一致，比如：
+        cell.entity = self.feedEntities[indexPath.row];
+    }];
+} 和每个 UITableViewCell ReuseID 一一对应的 template layout cell
+这个 cell 只为了参加高度计算，不会真的显示到屏幕上；它通过 UITableView 的 -dequeueCellForReuseIdentifier: 方法 lazy 创建并保存，所以要求这个 ReuseID 必须已经被注册到了 UITableView 中，也就是说，要么是 Storyboard 中的原型 cell，要么就是使用了 UITableView 的 -registerClass:forCellReuseIdentifier: 或 -registerNib:forCellReuseIdentifier:其中之一的注册方法。
+根据 autolayout 约束自动计算高度
+使用了系统在 iOS6 就提供的 API：-systemLayoutSizeFittingSize:
+根据 index path 的一套高度缓存机制
+计算出的高度会自动进行缓存，所以滑动时每个 cell 真正的高度计算只会发生一次，后面的高度询问都会命中缓存，减少了非常可观的多余计算。
+自动的缓存失效机制
+无须担心你数据源的变化引起的缓存失效，当调用如-reloadData，-deleteRowsAtIndexPaths:withRowAnimation:等任何一个触发 UITableView 刷新机制的方法时，已有的高度缓存将以最小的代价执行失效。如删除一个 indexPath 为 [0:5] 的 cell 时，[0:0] ~ [0:4] 的高度缓存不受影响，而 [0:5] 后面所有的缓存值都向前移动一个位置。自动缓存失效机制对 UITableView 的 9 个公有 API 都进行了分别的处理，以保证没有一次多余的高度计算。
+预缓存机制
+预缓存机制将在 UITableView 没有滑动的空闲时刻执行，计算和缓存那些还没有显示到屏幕中的 cell，整个缓存过程完全没有感知，这使得完整列表的高度计算既没有发生在加载时，又没有发生在滑动时，同时保证了加载速度和滑动流畅性，下文会着重讲下这块的实现原理。</string>
+		<key>images</key>
+		<array>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+		</array>
+		<key>time</key>
+		<string>1小时前</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>tu1.jpg</string>
+		<key>userId</key>
+		<string>0</string>
+		<key>name</key>
+		<string>cell高度自动计算,采用第三方库 UITableView+FDTemplateLayoutCell</string>
+		<key>personalizedSignature</key>
+		<string>具体细节参照博客  http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/</string>
+		<key>content</key>
+		<string>#import &lt;UITableView+FDTemplateLayoutCell.h&gt;
+- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
+    return [tableView fd_heightForCellWithIdentifier:@&quot;identifer&quot; cacheByIndexPath:indexPath configuration:^(id cell) {
+        // 配置 cell 的数据源，和 &quot;cellForRow&quot; 干的事一致，比如：
+        cell.entity = self.feedEntities[indexPath.row];
+    }];
+} 和每个 UITableViewCell ReuseID 一一对应的 template layout cell
+这个 cell 只为了参加高度计算，不会真的显示到屏幕上；它通过 UITableView 的 -dequeueCellForReuseIdentifier: 方法 lazy 创建并保存，所以要求这个 ReuseID 必须已经被注册到了 UITableView 中，也就是说，要么是 Storyboard 中的原型 cell，要么就是使用了 UITableView 的 -registerClass:forCellReuseIdentifier: 或 -registerNib:forCellReuseIdentifier:其中之一的注册方法。
+根据 autolayout 约束自动计算高度
+使用了系统在 iOS6 就提供的 API：-systemLayoutSizeFittingSize:
+根据 index path 的一套高度缓存机制
+计算出的高度会自动进行缓存，所以滑动时每个 cell 真正的高度计算只会发生一次，后面的高度询问都会命中缓存，减少了非常可观的多余计算。
+自动的缓存失效机制
+无须担心你数据源的变化引起的缓存失效，当调用如-reloadData，-deleteRowsAtIndexPaths:withRowAnimation:等任何一个触发 UITableView 刷新机制的方法时，已有的高度缓存将以最小的代价执行失效。如删除一个 indexPath 为 [0:5] 的 cell 时，[0:0] ~ [0:4] 的高度缓存不受影响，而 [0:5] 后面所有的缓存值都向前移动一个位置。自动缓存失效机制对 UITableView 的 9 个公有 API 都进行了分别的处理，以保证没有一次多余的高度计算。
+预缓存机制
+预缓存机制将在 UITableView 没有滑动的空闲时刻执行，计算和缓存那些还没有显示到屏幕中的 cell，整个缓存过程完全没有感知，这使得完整列表的高度计算既没有发生在加载时，又没有发生在滑动时，同时保证了加载速度和滑动流畅性，下文会着重讲下这块的实现原理。</string>
+		<key>images</key>
+		<array>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+		</array>
+		<key>time</key>
+		<string>1小时前</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>tu1.jpg</string>
+		<key>userId</key>
+		<string>0</string>
+		<key>name</key>
+		<string>cell高度自动计算,采用第三方库 UITableView+FDTemplateLayoutCell</string>
+		<key>personalizedSignature</key>
+		<string>具体细节参照博客  http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/</string>
+		<key>content</key>
+		<string>#import &lt;UITableView+FDTemplateLayoutCell.h&gt;
+- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
+    return [tableView fd_heightForCellWithIdentifier:@&quot;identifer&quot; cacheByIndexPath:indexPath configuration:^(id cell) {
+        // 配置 cell 的数据源，和 &quot;cellForRow&quot; 干的事一致，比如：
+        cell.entity = self.feedEntities[indexPath.row];
+    }];
+} 和每个 UITableViewCell ReuseID 一一对应的 template layout cell
+这个 cell 只为了参加高度计算，不会真的显示到屏幕上；它通过 UITableView 的 -dequeueCellForReuseIdentifier: 方法 lazy 创建并保存，所以要求这个 ReuseID 必须已经被注册到了 UITableView 中，也就是说，要么是 Storyboard 中的原型 cell，要么就是使用了 UITableView 的 -registerClass:forCellReuseIdentifier: 或 -registerNib:forCellReuseIdentifier:其中之一的注册方法。
+根据 autolayout 约束自动计算高度
+使用了系统在 iOS6 就提供的 API：-systemLayoutSizeFittingSize:
+根据 index path 的一套高度缓存机制
+计算出的高度会自动进行缓存，所以滑动时每个 cell 真正的高度计算只会发生一次，后面的高度询问都会命中缓存，减少了非常可观的多余计算。
+自动的缓存失效机制
+无须担心你数据源的变化引起的缓存失效，当调用如-reloadData，-deleteRowsAtIndexPaths:withRowAnimation:等任何一个触发 UITableView 刷新机制的方法时，已有的高度缓存将以最小的代价执行失效。如删除一个 indexPath 为 [0:5] 的 cell 时，[0:0] ~ [0:4] 的高度缓存不受影响，而 [0:5] 后面所有的缓存值都向前移动一个位置。自动缓存失效机制对 UITableView 的 9 个公有 API 都进行了分别的处理，以保证没有一次多余的高度计算。
+预缓存机制
+预缓存机制将在 UITableView 没有滑动的空闲时刻执行，计算和缓存那些还没有显示到屏幕中的 cell，整个缓存过程完全没有感知，这使得完整列表的高度计算既没有发生在加载时，又没有发生在滑动时，同时保证了加载速度和滑动流畅性，下文会着重讲下这块的实现原理。</string>
+		<key>images</key>
+		<array>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+		</array>
+		<key>time</key>
+		<string>1小时前</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>tu1.jpg</string>
+		<key>userId</key>
+		<string>0</string>
+		<key>name</key>
+		<string>cell高度自动计算,采用第三方库 UITableView+FDTemplateLayoutCell</string>
+		<key>personalizedSignature</key>
+		<string>具体细节参照博客  http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/</string>
+		<key>content</key>
+		<string>#import &lt;UITableView+FDTemplateLayoutCell.h&gt;
+- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
+    return [tableView fd_heightForCellWithIdentifier:@&quot;identifer&quot; cacheByIndexPath:indexPath configuration:^(id cell) {
+        // 配置 cell 的数据源，和 &quot;cellForRow&quot; 干的事一致，比如：
+        cell.entity = self.feedEntities[indexPath.row];
+    }];
+} 和每个 UITableViewCell ReuseID 一一对应的 template layout cell
+这个 cell 只为了参加高度计算，不会真的显示到屏幕上；它通过 UITableView 的 -dequeueCellForReuseIdentifier: 方法 lazy 创建并保存，所以要求这个 ReuseID 必须已经被注册到了 UITableView 中，也就是说，要么是 Storyboard 中的原型 cell，要么就是使用了 UITableView 的 -registerClass:forCellReuseIdentifier: 或 -registerNib:forCellReuseIdentifier:其中之一的注册方法。
+根据 autolayout 约束自动计算高度
+使用了系统在 iOS6 就提供的 API：-systemLayoutSizeFittingSize:
+根据 index path 的一套高度缓存机制
+计算出的高度会自动进行缓存，所以滑动时每个 cell 真正的高度计算只会发生一次，后面的高度询问都会命中缓存，减少了非常可观的多余计算。
+自动的缓存失效机制
+无须担心你数据源的变化引起的缓存失效，当调用如-reloadData，-deleteRowsAtIndexPaths:withRowAnimation:等任何一个触发 UITableView 刷新机制的方法时，已有的高度缓存将以最小的代价执行失效。如删除一个 indexPath 为 [0:5] 的 cell 时，[0:0] ~ [0:4] 的高度缓存不受影响，而 [0:5] 后面所有的缓存值都向前移动一个位置。自动缓存失效机制对 UITableView 的 9 个公有 API 都进行了分别的处理，以保证没有一次多余的高度计算。
+预缓存机制
+预缓存机制将在 UITableView 没有滑动的空闲时刻执行，计算和缓存那些还没有显示到屏幕中的 cell，整个缓存过程完全没有感知，这使得完整列表的高度计算既没有发生在加载时，又没有发生在滑动时，同时保证了加载速度和滑动流畅性，下文会着重讲下这块的实现原理。</string>
+		<key>images</key>
+		<array/>
+		<key>time</key>
+		<string>1小时前</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>tu1.jpg</string>
+		<key>userId</key>
+		<string>0</string>
+		<key>name</key>
+		<string>cell高度自动计算,采用第三方库 UITableView+FDTemplateLayoutCell</string>
+		<key>personalizedSignature</key>
+		<string>具体细节参照博客  http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/</string>
+		<key>content</key>
+		<string>#import &lt;UITableView+FDTemplateLayoutCell.h&gt;
+- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
+    return [tableView fd_heightForCellWithIdentifier:@&quot;identifer&quot; cacheByIndexPath:indexPath configuration:^(id cell) {
+        // 配置 cell 的数据源，和 &quot;cellForRow&quot; 干的事一致，比如：
+        cell.entity = self.feedEntities[indexPath.row];
+    }];
+} 和每个 UITableViewCell ReuseID 一一对应的 template layout cell
+这个 cell 只为了参加高度计算，不会真的显示到屏幕上；它通过 UITableView 的 -dequeueCellForReuseIdentifier: 方法 lazy 创建并保存，所以要求这个 ReuseID 必须已经被注册到了 UITableView 中，也就是说，要么是 Storyboard 中的原型 cell，要么就是使用了 UITableView 的 -registerClass:forCellReuseIdentifier: 或 -registerNib:forCellReuseIdentifier:其中之一的注册方法。
+根据 autolayout 约束自动计算高度
+使用了系统在 iOS6 就提供的 API：-systemLayoutSizeFittingSize:
+根据 index path 的一套高度缓存机制
+计算出的高度会自动进行缓存，所以滑动时每个 cell 真正的高度计算只会发生一次，后面的高度询问都会命中缓存，减少了非常可观的多余计算。
+自动的缓存失效机制
+无须担心你数据源的变化引起的缓存失效，当调用如-reloadData，-deleteRowsAtIndexPaths:withRowAnimation:等任何一个触发 UITableView 刷新机制的方法时，已有的高度缓存将以最小的代价执行失效。如删除一个 indexPath 为 [0:5] 的 cell 时，[0:0] ~ [0:4] 的高度缓存不受影响，而 [0:5] 后面所有的缓存值都向前移动一个位置。自动缓存失效机制对 UITableView 的 9 个公有 API 都进行了分别的处理，以保证没有一次多余的高度计算。
+预缓存机制
+预缓存机制将在 UITableView 没有滑动的空闲时刻执行，计算和缓存那些还没有显示到屏幕中的 cell，整个缓存过程完全没有感知，这使得完整列表的高度计算既没有发生在加载时，又没有发生在滑动时，同时保证了加载速度和滑动流畅性，下文会着重讲下这块的实现原理。</string>
+		<key>images</key>
+		<array>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+		</array>
+		<key>time</key>
+		<string>1小时前</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>tu1.jpg</string>
+		<key>userId</key>
+		<string>0</string>
+		<key>name</key>
+		<string>cell高度自动计算,采用第三方库 UITableView+FDTemplateLayoutCell</string>
+		<key>personalizedSignature</key>
+		<string>具体细节参照博客  http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/</string>
+		<key>content</key>
+		<string>#import &lt;UITableView+FDTemplateLayoutCell.h&gt;
+- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
+    return [tableView fd_heightForCellWithIdentifier:@&quot;identifer&quot; cacheByIndexPath:indexPath configuration:^(id cell) {
+        // 配置 cell 的数据源，和 &quot;cellForRow&quot; 干的事一致，比如：
+        cell.entity = self.feedEntities[indexPath.row];
+    }];
+} 和每个 UITableViewCell ReuseID 一一对应的 template layout cell
+这个 cell 只为了参加高度计算，不会真的显示到屏幕上；它通过 UITableView 的 -dequeueCellForReuseIdentifier: 方法 lazy 创建并保存，所以要求这个 ReuseID 必须已经被注册到了 UITableView 中，也就是说，要么是 Storyboard 中的原型 cell，要么就是使用了 UITableView 的 -registerClass:forCellReuseIdentifier: 或 -registerNib:forCellReuseIdentifier:其中之一的注册方法。
+根据 autolayout 约束自动计算高度
+使用了系统在 iOS6 就提供的 API：-systemLayoutSizeFittingSize:
+根据 index path 的一套高度缓存机制
+计算出的高度会自动进行缓存，所以滑动时每个 cell 真正的高度计算只会发生一次，后面的高度询问都会命中缓存，减少了非常可观的多余计算。
+自动的缓存失效机制
+无须担心你数据源的变化引起的缓存失效，当调用如-reloadData，-deleteRowsAtIndexPaths:withRowAnimation:等任何一个触发 UITableView 刷新机制的方法时，已有的高度缓存将以最小的代价执行失效。如删除一个 indexPath 为 [0:5] 的 cell 时，[0:0] ~ [0:4] 的高度缓存不受影响，而 [0:5] 后面所有的缓存值都向前移动一个位置。自动缓存失效机制对 UITableView 的 9 个公有 API 都进行了分别的处理，以保证没有一次多余的高度计算。
+预缓存机制
+预缓存机制将在 UITableView 没有滑动的空闲时刻执行，计算和缓存那些还没有显示到屏幕中的 cell，整个缓存过程完全没有感知，这使得完整列表的高度计算既没有发生在加载时，又没有发生在滑动时，同时保证了加载速度和滑动流畅性，下文会着重讲下这块的实现原理。</string>
+		<key>images</key>
+		<array/>
+		<key>time</key>
+		<string>1小时前</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>tu1.jpg</string>
+		<key>userId</key>
+		<string>0</string>
+		<key>name</key>
+		<string>cell高度自动计算,采用第三方库 UITableView+FDTemplateLayoutCell</string>
+		<key>personalizedSignature</key>
+		<string>具体细节参照博客  http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/</string>
+		<key>content</key>
+		<string>#import &lt;UITableView+FDTemplateLayoutCell.h&gt;
+- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
+    return [tableView fd_heightForCellWithIdentifier:@&quot;identifer&quot; cacheByIndexPath:indexPath configuration:^(id cell) {
+        // 配置 cell 的数据源，和 &quot;cellForRow&quot; 干的事一致，比如：
+        cell.entity = self.feedEntities[indexPath.row];
+    }];
+} 和每个 UITableViewCell ReuseID 一一对应的 template layout cell
+这个 cell 只为了参加高度计算，不会真的显示到屏幕上；它通过 UITableView 的 -dequeueCellForReuseIdentifier: 方法 lazy 创建并保存，所以要求这个 ReuseID 必须已经被注册到了 UITableView 中，也就是说，要么是 Storyboard 中的原型 cell，要么就是使用了 UITableView 的 -registerClass:forCellReuseIdentifier: 或 -registerNib:forCellReuseIdentifier:其中之一的注册方法。
+根据 autolayout 约束自动计算高度
+使用了系统在 iOS6 就提供的 API：-systemLayoutSizeFittingSize:
+根据 index path 的一套高度缓存机制
+计算出的高度会自动进行缓存，所以滑动时每个 cell 真正的高度计算只会发生一次，后面的高度询问都会命中缓存，减少了非常可观的多余计算。
+自动的缓存失效机制
+无须担心你数据源的变化引起的缓存失效，当调用如-reloadData，-deleteRowsAtIndexPaths:withRowAnimation:等任何一个触发 UITableView 刷新机制的方法时，已有的高度缓存将以最小的代价执行失效。如删除一个 indexPath 为 [0:5] 的 cell 时，[0:0] ~ [0:4] 的高度缓存不受影响，而 [0:5] 后面所有的缓存值都向前移动一个位置。自动缓存失效机制对 UITableView 的 9 个公有 API 都进行了分别的处理，以保证没有一次多余的高度计算。
+预缓存机制
+预缓存机制将在 UITableView 没有滑动的空闲时刻执行，计算和缓存那些还没有显示到屏幕中的 cell，整个缓存过程完全没有感知，这使得完整列表的高度计算既没有发生在加载时，又没有发生在滑动时，同时保证了加载速度和滑动流畅性，下文会着重讲下这块的实现原理。</string>
+		<key>images</key>
+		<array>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+			<string>http://4493bz.1985t.com/uploads/allimg/150127/4-15012G52133.jpg</string>
+		</array>
+		<key>time</key>
+		<string>1小时前</string>
+	</dict>
+</array>
+</plist>

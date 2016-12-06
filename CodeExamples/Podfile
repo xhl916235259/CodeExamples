@@ -1,0 +1,10 @@
+platform :ios, '8.0'
+use_frameworks!
+
+target ‘CodeExamples’ do
+	pod 'ReactiveCocoa’,'~> 2.5’
+	pod ‘Masonry’
+	pod 'UITableView+FDTemplateLayoutCell', '~> 1.5.beta'
+	pod 'BlocksKit', '~> 2.2.5'
+	pod 'SDWebImage', '~> 3.8.1'
+end
